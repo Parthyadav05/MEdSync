@@ -34,7 +34,7 @@
 
  * Run the Flutter project on an emulator or a physical device using the following command:
 
-  flutter run
+ * flutter run
 
  * This command will build and run the Flutter project on the connected device or emulator.
 
