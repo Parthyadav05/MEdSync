@@ -2,23 +2,23 @@
 
 1. Install Flutter:
 
- If you haven't already, install Flutter by following the instructions on the official Flutter website: Flutter Installation Guide.
+   If you haven't already, install Flutter by following the instructions on the official Flutter website: Flutter Installation Guide.
 
 2. Set Up Firebase Project:
 
- Go to the Firebase console: Firebase Console.
+   Go to the Firebase console: Firebase Console.
 
- Create a new project or use an existing one.
+   Create a new project or use an existing one.
 
- Set up Firebase Authentication and Firestore for your project. Go to the "Authentication" and "Firestore" tabs in the Firebase console to set them up according to your requirements.
+   Set up Firebase Authentication and Firestore for your project. Go to the "Authentication" and "Firestore" tabs in the Firebase console to set them up according to your requirements.
 
- Download the google-services.json file for Android or GoogleService-Info.plist file for iOS and place them in the respective directories of your Flutter project.
+   Download the google-services.json file for Android or GoogleService-Info.plist file for iOS and place them in the respective directories of your Flutter project.
 
 3. Clone the GitHub Repository:
 
- Clone the Flutter code repository from GitHub that you want to run on your local machine.
+  Clone the Flutter code repository from GitHub that you want to run on your local machine.
 
- git clone <repository-url>
+  git clone <repository-url>
 
 4. Install Dependencies:
    
