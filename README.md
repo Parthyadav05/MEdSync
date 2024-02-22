@@ -26,11 +26,11 @@
 
  * flutter pub get
 
-5.Configure Firebase in Flutter:
+5. Configure Firebase in Flutter:
 
  * Update the pubspec.yaml file to include the necessary Firebase and Firestore dependencies. Ensure that the google-services.json or GoogleService-Info.plist files are correctly placed in the project.
 
-6.Run the Flutter Project:
+6. Run the Flutter Project:
 
  * Run the Flutter project on an emulator or a physical device using the following command:
 
@@ -38,7 +38,7 @@
 
  * This command will build and run the Flutter project on the connected device or emulator.
 
-7.Testing Firebase Authentication and Firestore:
+7. Testing Firebase Authentication and Firestore:
 
  * Test the Firebase Authentication functionalities (e.g., sign up, sign in) to ensure they are working as expected.
 
