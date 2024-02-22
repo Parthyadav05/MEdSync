@@ -2,53 +2,53 @@
 
 1. Install Flutter:
 
-If you haven't already, install Flutter by following the instructions on the official Flutter website: Flutter Installation Guide.
+ If you haven't already, install Flutter by following the instructions on the official Flutter website: Flutter Installation Guide.
 
-3. Set Up Firebase Project:
+2. Set Up Firebase Project:
 
-Go to the Firebase console: Firebase Console.
+ Go to the Firebase console: Firebase Console.
 
-Create a new project or use an existing one.
+ Create a new project or use an existing one.
 
-Set up Firebase Authentication and Firestore for your project. Go to the "Authentication" and "Firestore" tabs in the Firebase console to set them up according to your requirements.
+ Set up Firebase Authentication and Firestore for your project. Go to the "Authentication" and "Firestore" tabs in the Firebase console to set them up according to your requirements.
 
-Download the google-services.json file for Android or GoogleService-Info.plist file for iOS and place them in the respective directories of your Flutter project.
+ Download the google-services.json file for Android or GoogleService-Info.plist file for iOS and place them in the respective directories of your Flutter project.
 
 3. Clone the GitHub Repository:
 
-Clone the Flutter code repository from GitHub that you want to run on your local machine.
+ Clone the Flutter code repository from GitHub that you want to run on your local machine.
 
-git clone <repository-url>
+ git clone <repository-url>
 
-4. Install Dependencies:
+3. Install Dependencies:
    
-Run the following command to get all the dependencies required for the Flutter project:
+  Run the following command to get all the dependencies required for the Flutter project:
 
-flutter pub get
+  flutter pub get
 
 5.Configure Firebase in Flutter:
 
-Update the pubspec.yaml file to include the necessary Firebase and Firestore dependencies. Ensure that the google-services.json or GoogleService-Info.plist files are correctly placed in the project.
+  Update the pubspec.yaml file to include the necessary Firebase and Firestore dependencies. Ensure that the google-services.json or GoogleService-Info.plist files are correctly placed in the project.
 
 6.Run the Flutter Project:
 
-Run the Flutter project on an emulator or a physical device using the following command:
+  Run the Flutter project on an emulator or a physical device using the following command:
 
-flutter run
+  flutter run
 
-This command will build and run the Flutter project on the connected device or emulator.
+  This command will build and run the Flutter project on the connected device or emulator.
 
 7.Testing Firebase Authentication and Firestore:
 
-Test the Firebase Authentication functionalities (e.g., sign up, sign in) to ensure they are working as expected.
+  Test the Firebase Authentication functionalities (e.g., sign up, sign in) to ensure they are working as expected.
 
-Test Firestore integration by reading from and writing to the Firestore database.
+  Test Firestore integration by reading from and writing to the Firestore database.
 
 8. To run the chatbot which uses Gemini:
    
-API Key Setup:
+  API Key Setup:
 
-To use Gemini's API, you typically need to sign up for an account on their platform and generate API keys. Follow Gemini's documentation to create API keys with the necessary permissions for your app.
+  To use Gemini's API, you typically need to sign up for an account on their platform and generate API keys. Follow Gemini's documentation to create API keys with the necessary permissions for your app.
 # MEdSync: Your Health Management Companion
 
 Overview:
