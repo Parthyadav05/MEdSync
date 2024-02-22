@@ -20,7 +20,7 @@
 
  git clone <repository-url>
 
-3. Install Dependencies:
+4. Install Dependencies:
    
   Run the following command to get all the dependencies required for the Flutter project:
 
